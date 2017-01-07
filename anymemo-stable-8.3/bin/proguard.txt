@@ -1,0 +1,126 @@
+# view res/layout/memo_screen_gesture.xml #generated:2
+-keep class android.gesture.GestureOverlayView { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.example.android.apis.graphics.FingerPaint { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class org.liberty.android.fantastischmemo.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class org.liberty.android.fantastischmemo.AnyMemoService { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class org.liberty.android.fantastischmemo.AnyMemoWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class org.liberty.android.fantastischmemo.DetailScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class org.liberty.android.fantastischmemo.Downloader { <init>(...); }
+
+# view AndroidManifest.xml #generated:97
+-keep class org.liberty.android.fantastischmemo.DownloaderTab { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class org.liberty.android.fantastischmemo.EditScreenTab { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class org.liberty.android.fantastischmemo.EmmaInstrument.EmmaInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class org.liberty.android.fantastischmemo.EmmaInstrument.InstrumentedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class org.liberty.android.fantastischmemo.EmmaInstrument.SMSInstrumentedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class org.liberty.android.fantastischmemo.FileBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class org.liberty.android.fantastischmemo.MainTabs { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class org.liberty.android.fantastischmemo.MiscTab { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class org.liberty.android.fantastischmemo.OpenScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class org.liberty.android.fantastischmemo.OpenScreenTab { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class org.liberty.android.fantastischmemo.OptionScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class org.liberty.android.fantastischmemo.RecentList { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class org.liberty.android.fantastischmemo.SetAlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class org.liberty.android.fantastischmemo.SettingsScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class org.liberty.android.fantastischmemo.ShareScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class org.liberty.android.fantastischmemo.cardscreen.CardEditor { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class org.liberty.android.fantastischmemo.cardscreen.CramMemoScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class org.liberty.android.fantastischmemo.cardscreen.DatabaseMerger { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class org.liberty.android.fantastischmemo.cardscreen.EditScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class org.liberty.android.fantastischmemo.cardscreen.Filter { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class org.liberty.android.fantastischmemo.cardscreen.ListEditScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class org.liberty.android.fantastischmemo.cardscreen.MemoScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class org.liberty.android.fantastischmemo.converter.ConvertScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class org.liberty.android.fantastischmemo.downloader.DownloaderAnyMemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class org.liberty.android.fantastischmemo.downloader.DownloaderDropbox { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class org.liberty.android.fantastischmemo.downloader.DownloaderFE { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class org.liberty.android.fantastischmemo.downloader.DownloaderQuizlet { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class org.liberty.android.fantastischmemo.downloader.DownloaderSS { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class org.liberty.android.fantastischmemo.downloader.DropboxLauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class org.liberty.android.fantastischmemo.downloader.DropboxUploader { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class org.liberty.android.fantastischmemo.downloader.FEDirectory { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class org.liberty.android.fantastischmemo.downloader.FELauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class org.liberty.android.fantastischmemo.downloader.FEOauth { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class org.liberty.android.fantastischmemo.downloader.FEUpload { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class org.liberty.android.fantastischmemo.downloader.QuizletLauncher { <init>(...); }
+
